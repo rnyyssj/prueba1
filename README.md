@@ -1,2 +1,2 @@
 # prueba1
-Repositorio de prueba.
+Prueba de hacer cosas que hacen cosas.
